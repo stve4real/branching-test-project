@@ -1,16 +1,17 @@
 body{
-    background-color:purple;
+    background-color:salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 h1{
-  color: blue;
+  color: darkred;
   text-align:center;
 }
 h2{
-  font-style:halic;
-  text-align:center;
-  color: teal;
+  font-style:italic;
+  color:red;
 }
 p{
-  color:gray
-  font-size: italic;
+  color:crimson
+
 }
